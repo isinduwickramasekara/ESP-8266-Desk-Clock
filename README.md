@@ -129,7 +129,6 @@ Install the following libraries in Arduino IDE:
 
 Planned improvements for future versions include:
 
-* alarm functionality
 * weather display using APIs
 * improved enclosure design
 * power optimisation
