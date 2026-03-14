@@ -10,7 +10,7 @@ This project was designed as a small embedded systems build combining firmware, 
 ## Project Overview
 
 This desk clock uses an ESP8266 microcontroller to connect to WiFi and obtain accurate time from internet NTP servers.
-The time is displayed on a low-power OLED screen, creating a simple and compact desk companion.
+The time is displayed on a low-power OLED screen, creating a simple and compact desk clock.
 
 The project includes:
 
