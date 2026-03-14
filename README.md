@@ -114,13 +114,13 @@ Install the following libraries in Arduino IDE:
 ## Images
 
 * finished clock
-  ![Clock](images/clock_photo.jpg)
+  ![Clock](Images/clock_photo.jpg)
 * PCB render
-  ![PCB](images/PCB_3D_render.png)
+  ![PCB](Images/PCB_3D_render.png)
 * schematic
-  ![schematic](images/Schematic.png)
+  ![schematic](Images/Schematic.png)
 * 3D Model
-  ![3Dmodel](images/3Dmodel(1).png)
+  ![3Dmodel](Images/3Dmodel(1).png)
 
 
 ---
